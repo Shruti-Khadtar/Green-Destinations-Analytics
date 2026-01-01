@@ -22,7 +22,7 @@ This project analyzes employee attrition and workforce demographics for Green De
 - Job satisfaction varies significantly by role
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](greendestination.png)
 
 ## Project Files
 - `Dashboard/` → Tableau packaged workbook (.twbx)
